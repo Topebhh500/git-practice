@@ -1,0 +1,4 @@
+1. Open the git-practice 
+2. folder we turned it into a Git 
+3. project earlier both in an editor (
+4. for example Visual Studio Code) and in Git Bash.
